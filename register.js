@@ -23,7 +23,7 @@ function signUpWithEmailPassword() {
         console.log("success")
         // Signed in 
         var user = userCredential.user;
-        window.location.href = "index.html"
+        window.location.href = "game.html"
         // ...
       })
       .catch((error) => {

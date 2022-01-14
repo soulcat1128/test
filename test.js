@@ -28,7 +28,7 @@ function signInWithEmailPassword() {
             window.location.href = "admin.html"
         }
         else{
-            window.location.href = "index.html"
+            window.location.href = "game.html"
             
         }
         // ...
